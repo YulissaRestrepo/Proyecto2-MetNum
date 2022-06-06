@@ -67,3 +67,4 @@ if m== 1:
     metodo_regulafalsi(func, a, b, tol) 
 if m== 2:
     metodo_secante(func, a, b, tol)
+
